@@ -28,10 +28,6 @@ body {
   height: 100vh;
 }
 
-p {
-  color: var(--neutral-black);
-}
-
 .text-preset-1 {
   font-family: var(--font-family-fraunces);
   font-weight: 700;
